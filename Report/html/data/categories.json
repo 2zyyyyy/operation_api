@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: string indices must be integers",
+      "children" : [ {
+        "name" : "test_getusermenu_01",
+        "uid" : "33d94a010fa8829b",
+        "parentUid" : "72c0936964a9b2fe1cfe23cf31d1b5b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1571817642763,
+          "stop" : 1571817643167,
+          "duration" : 404
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_01",
+        "uid" : "b0862f7e61617286",
+        "parentUid" : "72c0936964a9b2fe1cfe23cf31d1b5b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1571817643245,
+          "stop" : 1571817643264,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_02",
+        "uid" : "ac622b44968bc1fa",
+        "parentUid" : "72c0936964a9b2fe1cfe23cf31d1b5b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1571817643280,
+          "stop" : 1571817643297,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72c0936964a9b2fe1cfe23cf31d1b5b6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

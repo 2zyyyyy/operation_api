@@ -1,0 +1,17 @@
+---
+GetUserMenu:
+  dec: "获取用户菜单"
+  parameters:
+    # 用户名密码正确，登录成功
+    - url: /userEdit-service/getUserMenu
+      data: {"systemId": "77","terminalType": "222"}
+      header: {
+        'Content-Type': 'application/json;charset=UTF-8','token':
+      }
+
+    # 用户名密码正确，登录成功
+    - url: /userEdit-service/getUserMenu
+      data: {"systemId": "77","terminalType": "222"}
+      header: {
+        'Content-Type': 'application/json;charset=UTF-8'
+      }

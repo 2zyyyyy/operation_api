@@ -1,0 +1,10 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Oct 23 16:00:43 CST 2019","Wed Oct 23 16:00:43 CST 2019","19","Testcase","test_login","TestLogin","","","test_login_01","
+            用例描述：账户密码正确 登录请求
+        "
+"broken","Wed Oct 23 16:00:43 CST 2019","Wed Oct 23 16:00:43 CST 2019","17","Testcase","test_login","TestLogin","","","test_login_02","
+            用例描述：账户正确密码错误 登录失败
+        "
+"broken","Wed Oct 23 16:00:42 CST 2019","Wed Oct 23 16:00:43 CST 2019","404","Testcase","test_getusermenu","TestGetUserMenu","","","test_getusermenu_01","
+            用例描述：systemId、terminalType正常
+        "

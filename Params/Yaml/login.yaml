@@ -1,0 +1,18 @@
+---
+Login:
+  dec: "用户登录"
+  parameters:
+    # 用户名密码正确，登录成功
+    - url: /auth-service/login
+      data: {"userMobile":"18067940805","systemId":"111","terminalType":"78","password":"1234561"}
+      header: {
+        'Content-Type': 'application/json;charset=UTF-8'
+      }
+      test: 'aaa'
+
+    # 用户名正确，密码错误，登录失败
+    - url: /auth-service/login
+      data: {"userMobile":"18067940805","systemId":"111","terminalType":"78","password":"1234561"}
+      header: {
+        'Content-Type': 'application/json;charset=UTF-8'
+      }

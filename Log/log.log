@@ -1,0 +1,917 @@
+[DEBUG 2019-03-07 17:36:59]This is debug message!
+[INFO 2019-03-07 17:36:59]This is info message!
+[WARNING 2019-03-07 17:36:59]This is warning message!
+[ERROR 2019-03-07 17:36:59]This is error message!
+[CRITICAL 2019-03-07 17:36:59]This is critical message!
+[DEBUG 2019-04-10 10:52:40]token: 9999
+[DEBUG 2019-04-10 10:54:52]token: 9999
+[DEBUG 2019-04-10 10:56:58]token: 9999
+[DEBUG 2019-04-10 10:58:33]token: 9999
+[DEBUG 2019-04-10 11:05:48]token: 9999
+[DEBUG 2019-04-10 11:06:16]token: 9999
+[DEBUG 2019-04-10 11:25:23]token: 9999
+[DEBUG 2019-04-10 11:44:02]token: 0000
+[DEBUG 2019-04-10 11:48:10]token: 9999
+[DEBUG 2019-04-10 11:48:52]token: 9999
+[DEBUG 2019-04-10 11:50:20]token: 0000
+[DEBUG 2019-04-10 11:53:03]token: 9999
+[DEBUG 2019-04-10 11:53:40]token: 9999
+[DEBUG 2019-04-10 14:06:37]token: 9999
+[DEBUG 2019-04-10 14:08:14]token: 9999
+[DEBUG 2019-04-10 14:10:06]token: 9999
+[DEBUG 2019-04-10 14:10:51]token: 9999
+[DEBUG 2019-04-10 14:12:00]token: 9999
+[DEBUG 2019-04-10 14:12:53]token: 0000
+[DEBUG 2019-04-10 14:13:28]token: 0000
+[DEBUG 2019-04-10 14:13:50]token: 9999
+[DEBUG 2019-04-10 14:16:03]token: 9999
+[DEBUG 2019-04-10 14:16:27]token: 9999
+[DEBUG 2019-04-10 14:16:47]token: 9999
+[DEBUG 2019-04-10 14:17:14]token: 9999
+[DEBUG 2019-04-10 14:23:56]token: 9999
+[DEBUG 2019-04-10 14:30:12]token: 9999
+[DEBUG 2019-04-10 14:35:30]token: 0000
+[DEBUG 2019-04-10 14:35:43]token: 9999
+[DEBUG 2019-04-10 14:37:51]token: 9999
+[DEBUG 2019-04-10 14:38:06]token: 9999
+[DEBUG 2019-04-10 14:38:21]token: 9999
+[DEBUG 2019-04-10 14:40:04]token: 9999
+[DEBUG 2019-04-10 14:40:20]token: 9999
+[DEBUG 2019-04-10 14:40:30]token: 9999
+[DEBUG 2019-04-10 14:40:45]token: 9999
+[DEBUG 2019-04-10 14:44:32]token: 9999
+[DEBUG 2019-04-10 14:48:30]token: 9999
+[DEBUG 2019-04-10 14:49:01]token: 9999
+[DEBUG 2019-04-10 14:49:15]token: 9999
+[DEBUG 2019-04-10 14:49:49]token: 0000
+[DEBUG 2019-04-10 14:50:16]token: 0000
+[DEBUG 2019-04-10 14:50:51]token: 0000
+[DEBUG 2019-04-10 14:51:21]token: 0000
+[DEBUG 2019-04-10 14:51:34]token: 0000
+[DEBUG 2019-04-10 14:53:35]token: 0000
+[DEBUG 2019-04-10 14:54:17]token: 0000
+[DEBUG 2019-04-10 14:55:21]token: 0000
+[DEBUG 2019-04-10 14:57:36]token: 9999
+[DEBUG 2019-04-10 14:58:09]token: 9999
+[DEBUG 2019-04-10 15:03:42]token: 9999
+[DEBUG 2019-04-10 15:03:59]token: 0000
+[DEBUG 2019-04-10 15:04:25]token: 0000
+[DEBUG 2019-04-10 15:06:17]token: 0000
+[DEBUG 2019-04-10 15:06:36]token: 0000
+[DEBUG 2019-04-10 15:10:24]token: 9999
+[DEBUG 2019-04-10 15:12:43]token: 0000
+[DEBUG 2019-04-10 15:12:56]token: 9999
+[DEBUG 2019-04-10 15:14:46]token: 9999
+[DEBUG 2019-04-10 15:16:25]token: 9999
+[DEBUG 2019-04-10 15:20:03]token: 9999
+[DEBUG 2019-04-10 15:20:14]token: 0000
+[DEBUG 2019-04-10 15:21:35]token: 0000
+[DEBUG 2019-04-10 15:23:20]token: 9999
+[DEBUG 2019-04-10 15:23:54]token: 9999
+[DEBUG 2019-04-10 15:24:17]token: 9999
+[DEBUG 2019-04-10 15:29:22]token: 9999
+[DEBUG 2019-04-10 15:30:06]token: 9999
+[DEBUG 2019-04-10 15:30:58]token: 9999
+[DEBUG 2019-04-10 15:31:30]token: 9999
+[DEBUG 2019-04-10 15:46:27]token: 9999
+[DEBUG 2019-04-10 15:46:53]token: 9999
+[DEBUG 2019-04-10 15:47:30]token: 9999
+[DEBUG 2019-04-10 15:51:05]token: 9999
+[DEBUG 2019-04-10 15:51:29]token: 9999
+[DEBUG 2019-04-10 15:51:56]token: 9999
+[DEBUG 2019-04-10 15:59:25]token: 9999
+[DEBUG 2019-04-10 16:01:04]token: 9999
+[DEBUG 2019-04-10 16:01:30]token: 9999
+[DEBUG 2019-04-10 16:01:36]token: 9999
+[DEBUG 2019-04-10 16:02:38]token: 9999
+[DEBUG 2019-04-10 16:03:21]token: 9999
+[DEBUG 2019-04-10 16:07:56]token: 9999
+[DEBUG 2019-04-10 16:08:12]token: 9999
+[DEBUG 2019-04-10 16:08:30]token: 9999
+[DEBUG 2019-04-10 17:39:36]token: 9999
+[DEBUG 2019-04-10 17:41:00]token: 9999
+[DEBUG 2019-04-10 19:23:31]token: 9999
+[DEBUG 2019-04-10 19:23:52]token: 9999
+[DEBUG 2019-04-10 19:24:37]token: 0000
+[DEBUG 2019-04-10 19:25:04]token: 9999
+[DEBUG 2019-04-10 19:28:31]token: 0000
+[DEBUG 2019-04-10 19:29:40]token: token=f9b6acef-7017-42d6-9cdc-f497654bbdf4
+[DEBUG 2019-04-10 19:29:49]token: token=6d2c0c0d-4a06-402d-ae05-0c0b2b564835
+[DEBUG 2019-04-10 19:30:17]token: token=40fb9df1-abc7-4a7e-8d27-308fa84ef7ad
+[DEBUG 2019-04-10 19:32:28]token: token=b54c35da-1eac-4ed5-bd73-773232a228f4
+[DEBUG 2019-04-11 11:30:53]token: token=46e1c25a-826f-4928-b0fe-78442e050688
+[DEBUG 2019-04-11 11:31:21]token: c44b4199-fbd1-439a-a403-323fe04f5fbc
+[DEBUG 2019-04-16 10:23:30]token: d703465f-6d6e-48b8-bf20-b6c3bff92893
+[DEBUG 2019-04-16 10:24:29]token: 495477cb-8469-491a-b918-25dc0e71eb46
+[DEBUG 2019-04-19 15:30:36]token: 4d2eb04a-2661-4d10-a7df-671b98bf0029
+[DEBUG 2019-04-26 15:23:44]token: dd5371c2-2910-4b8f-842b-a5857f91ccc4
+[INFO 2019-04-29 18:06:29]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:06:29]执行的用例集为:--allure_features=Login
+[INFO 2019-04-29 18:08:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:08:32]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:09:17]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:09:17]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:09:18]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-29 18:10:17]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:10:17]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:10:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-29 18:11:27]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:11:27]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:11:28]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-29 18:11:28]token: 5e784e78-e7ac-4a57-aa57-db7f95417caf
+[INFO 2019-04-29 18:12:28]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:12:28]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:12:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-29 18:12:29]token: 56911903-942b-4ea8-a468-9ac7293aebcc
+[INFO 2019-04-29 18:12:59]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:12:59]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:12:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-29 18:12:59]token: a9834c7a-330d-436a-ba83-882e3cd3d814
+[INFO 2019-04-29 18:13:47]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-29 18:13:47]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-29 18:13:47]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-29 18:13:48]token: 6f55bd1c-aaf8-4bc5-834c-a2ca4111ff69
+[INFO 2019-04-30 09:59:29]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 09:59:29]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 09:59:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 09:59:30]token: 0197bba2-94e9-4a32-ba19-2f581af912b0
+[INFO 2019-04-30 10:02:21]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:02:21]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:02:21]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:02:21]token: 547c23db-b207-4487-8f56-244b8c46c003
+[INFO 2019-04-30 10:02:50]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:02:50]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:02:51]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:02:51]token: a9f5800e-14c7-4a14-ba05-1eb49c0e231b
+[INFO 2019-04-30 10:04:58]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:04:58]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:04:58]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:04:58]token: bccb14f6-ba52-400f-9003-4795dc5815d4
+[INFO 2019-04-30 10:05:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:05:24]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:05:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:05:24]token: 907e1fc4-8dca-4160-a24c-a369fc104137
+[INFO 2019-04-30 10:08:36]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:08:36]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:08:37]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:08:37]token: acfb5259-f89f-4ac0-a2c5-9f3c9f91e050
+[ERROR 2019-04-30 10:08:37]status code error,expected_code is %s,status code is %s
+[INFO 2019-04-30 10:09:58]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:09:58]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:09:58]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:09:58]token: bdddab6e-9c09-4242-ace4-f81fbe5f229b
+[ERROR 2019-04-30 10:09:58]status code error,expected_code is %s,status code is %s
+[INFO 2019-04-30 10:41:00]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:41:00]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:41:00]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:41:01]token: acece7f0-fbaf-4976-8657-252606f7936a
+[ERROR 2019-04-30 10:41:01]status code error,expected_code is 1005,status code is 200
+[INFO 2019-04-30 10:43:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:43:24]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:43:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:43:25]token: bac75bb4-fe41-4b0a-8f22-db88afd22de2
+[ERROR 2019-04-30 10:43:25]status code error,expected_code is 1005,status code is 200
+[INFO 2019-04-30 10:45:26]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:45:26]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:45:26]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:45:27]token: 9f19dc04-92d6-42a1-94f2-0e69fe5f4323
+[INFO 2019-04-30 10:45:53]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:45:53]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:45:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:45:54]token: 1370ee49-1da4-480e-9293-6e83a3db9bd4
+[INFO 2019-04-30 10:47:03]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:47:03]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:47:03]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:47:04]token: 45809ad7-4557-4fe5-89d0-dcceaa59d464
+[INFO 2019-04-30 10:47:27]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:47:27]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:47:27]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:47:27]token: d52350dc-e604-4774-a05a-1478d754b463
+[INFO 2019-04-30 10:47:37]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:47:37]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:47:37]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:47:37]token: 2f397bff-6c49-4691-9e9c-6df633a6bd94
+[ERROR 2019-04-30 10:47:37]status code error,expected_code is 1005,status code is 200
+[INFO 2019-04-30 10:48:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:48:44]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:48:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:48:45]token: 7b7e4670-7e07-4408-a6ba-a757a4b432c5
+[ERROR 2019-04-30 10:48:45]status code error,expected_code is 9999,status code is 200
+[INFO 2019-04-30 10:49:05]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:49:05]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:49:05]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 10:50:02]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:50:02]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:50:02]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:50:03]token: 0f19a46a-30d6-4e51-892d-89e02c5d0104
+[ERROR 2019-04-30 10:50:03]status code error,expected_code is 9999,status code is 200
+[INFO 2019-04-30 10:51:22]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:51:22]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:51:22]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:51:23]token: 5c1a64af-b2f1-4a0e-b6ac-b052fbca8e83
+[ERROR 2019-04-30 10:51:23]status code error,expected_code is 9999,status code is 200
+[INFO 2019-04-30 10:52:02]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:52:02]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:52:02]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:52:03]token: 1f0b4d5e-409d-4a5c-8d0e-a9eb3c69af7d
+[ERROR 2019-04-30 10:52:03]status code error,expected_code is 9999,status code is 200
+[INFO 2019-04-30 10:53:12]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:53:12]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:53:12]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:53:13]token: 644ec8bd-c9c8-4f23-b081-6c25df10ed98
+[INFO 2019-04-30 10:55:56]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:55:56]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:55:56]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:55:57]token: 3278e4b7-5332-4289-af09-f59c3f504c37
+[INFO 2019-04-30 10:58:48]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 10:58:58]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 10:58:58]执行的用例集为:--allure_features=TestLogin
+[INFO 2019-04-30 10:58:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 10:58:59]token: f4131188-5e05-4fab-ae8d-ef8f01bbeca8
+[INFO 2019-04-30 11:02:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 11:02:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 11:02:11]token: c07292c6-cd5e-44a8-a867-0eb06c6a9228
+[INFO 2019-04-30 11:13:54]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 11:13:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 11:14:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 11:14:21]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 11:14:21]token: 73405595-0553-46d5-8c0f-dcb013a51073
+[INFO 2019-04-30 13:46:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 13:53:58]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 13:54:06]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 13:54:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 14:00:33]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 14:00:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 14:00:53]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 14:00:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 14:00:54]token: f79c14d2-2926-41e2-8c4d-c846a6deffee
+[INFO 2019-04-30 14:01:37]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 14:01:37]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 14:01:37]token: 43407474-4578-4c1b-affd-b2a3afa1c6c3
+[INFO 2019-04-30 17:05:33]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:05:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:05:33]token: 61dfc1c8-46b3-47a5-8e5b-680520849201
+[INFO 2019-04-30 17:06:08]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:06:08]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:06:09]token: 6abd7993-56f7-49b3-8019-16f93f68f539
+[INFO 2019-04-30 17:06:42]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:06:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:06:43]token: ca8b1e83-7351-4e56-b9ae-429383e34445
+[INFO 2019-04-30 17:08:26]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:08:26]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 17:09:48]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:09:48]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:09:49]token: b8d299cd-e7bc-4cb6-9303-b58098d9bbae
+[INFO 2019-04-30 17:11:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:11:44]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:11:44]token: 5819aa54-ff62-431b-8b37-f44bca305b8d
+[INFO 2019-04-30 17:25:51]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:25:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:25:52]token: 06da9a59-1853-49b2-8ffb-a12dcf82474e
+[INFO 2019-04-30 17:28:01]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:28:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:28:02]token: 55109c68-1fd8-4557-940f-181cdf015d86
+[INFO 2019-04-30 17:30:08]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:30:08]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:30:09]token: 19049626-593e-4be5-a59c-ce8035cc0fe1
+[DEBUG 2019-04-30 17:31:34]token: 23cef5ac-a9d4-4b5b-a1f4-8e11d35505cb
+[DEBUG 2019-04-30 17:32:08]token: 3b31126f-f710-42dc-b182-4d61111fb802
+[DEBUG 2019-04-30 17:32:22]token: 5a76a0a3-ef12-442b-8437-73fecda59145
+[DEBUG 2019-04-30 17:32:29]token: bba257cb-53ba-4309-97af-1bdbb1c216ce
+[DEBUG 2019-04-30 17:33:06]token: 79c5714d-d77a-423e-9355-eea26bd7cdff
+[DEBUG 2019-04-30 17:34:13]token: bd59b6c9-ec7a-4b93-b78c-2935636736f5
+[INFO 2019-04-30 17:34:49]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:34:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:34:50]token: 0459add3-0b32-4dde-92eb-b8b8aaa431e2
+[INFO 2019-04-30 17:35:18]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:35:19]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:35:19]token: 8d12d5af-e506-48af-b2d9-9e746934e3a8
+[INFO 2019-04-30 17:35:37]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:35:38]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:35:38]token: 7467457d-6505-4e21-9fe2-6bb7363a37b8
+[INFO 2019-04-30 17:35:51]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:35:51]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:35:51]token: 744063ea-e9e5-44c8-a40e-99d972cee64e
+[INFO 2019-04-30 17:36:11]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:36:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:36:12]token: 3361c0a3-f61a-4e78-8daf-5144f5925127
+[INFO 2019-04-30 17:38:36]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:38:36]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:38:37]token: 4d5a6458-0a09-4891-aebf-09fcdf4439b7
+[INFO 2019-04-30 17:38:55]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:38:55]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:38:56]token: 8ee4f761-ea57-45e3-9d84-ef9243242848
+[INFO 2019-04-30 17:39:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:39:44]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:39:45]token: eda6ad61-0451-4242-8595-a3a8830c3186
+[DEBUG 2019-04-30 17:41:27]token: ab0ef0fc-819e-4892-a99d-253b48d11aba
+[DEBUG 2019-04-30 17:41:53]token: 1cceb707-b86a-45d0-81b9-9a1407b93a07
+[INFO 2019-04-30 17:43:04]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:43:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 17:43:23]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:43:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:43:24]token: 3b98ec59-4b9b-441c-bae1-b612b7b4bbe3
+[INFO 2019-04-30 17:43:39]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:43:39]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 17:43:39]token: fbda459d-7719-451c-ab4c-59664311e59b
+[INFO 2019-04-30 17:46:57]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:46:57]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 17:49:25]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 17:49:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-04-30 18:01:09]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:01:09]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:01:10]token: 0d8b976a-23ca-449c-bb8b-5d4f4a88515a
+[INFO 2019-04-30 18:01:45]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:01:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:01:46]token: e2ed2860-16f4-4d21-80fe-cb91a59418f7
+[INFO 2019-04-30 18:03:35]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:03:35]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:03:35]token: 96dd75f4-3ebf-4a34-ae94-ef602e35b5ec
+[INFO 2019-04-30 18:03:45]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:03:46]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:03:46]token: eef2f71a-f13d-4b46-ab8f-2b5dc61b4e8a
+[INFO 2019-04-30 18:14:17]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:14:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:14:17]token: 0ace3425-904c-46bb-a0ae-64bee66bbbbf
+[INFO 2019-04-30 18:17:52]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-04-30 18:17:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-04-30 18:17:53]token: 3ef5e21b-57fd-4bfc-a398-f654a5a27062
+[INFO 2019-05-08 16:42:36]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 16:43:44]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 16:47:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 16:47:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 16:48:02]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 16:48:02]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 16:48:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 16:48:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:00:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:00:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:01:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:01:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:05:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:05:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:05:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:05:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:07:50]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:07:50]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:08:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:08:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-08 17:08:41]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-08 17:08:41]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-09 14:19:59]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-09 14:20:00]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-09 14:20:00]token: 013ec06a-d3d9-4f46-98c4-b078f0516c75
+[INFO 2019-05-09 14:20:49]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-09 14:20:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-09 14:20:50]token: f08a7ecb-aa90-484d-82d2-80ed29bb5b68
+[ERROR 2019-05-09 14:20:50]status code error,expected_code is 0000,status code is 9999
+[INFO 2019-05-09 14:21:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-09 14:21:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-09 14:21:45]token: 64010aa2-fbc4-4685-9e19-1e81be7db210
+[INFO 2019-05-09 14:23:58]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-09 14:23:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-09 14:23:59]token: f44c8487-dcc9-4b32-b8f3-0dc7cffb53c5
+[INFO 2019-05-13 16:58:22]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 16:58:22]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-13 16:59:49]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 16:59:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 16:59:50]token: 250dcc96-aebc-487a-8f3a-6780d8707aca
+[INFO 2019-05-13 17:00:46]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:00:47]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:00:47]token: d9d099ff-7f87-47c3-b71c-3969bdbaa4f0
+[INFO 2019-05-13 17:01:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:01:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:01:08]token: 774c40df-ce46-450d-b5f6-0d66a185e0a8
+[INFO 2019-05-13 17:02:01]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:02:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:02:02]token: 198b81ec-d3fd-4cf3-af71-c2037a9ad064
+[INFO 2019-05-13 17:02:46]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:02:46]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:02:47]token: 6dc2d394-22ba-4067-b5df-7bb4d4accca3
+[INFO 2019-05-13 17:03:19]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:03:19]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:03:19]token: 308955c5-2f0a-44be-b2de-ef4f02a45c97
+[INFO 2019-05-13 17:03:50]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:03:51]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:03:51]token: 7e1c90af-f411-4d5b-bae3-042baff9b4fc
+[INFO 2019-05-13 17:10:48]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:10:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:10:49]token: 44bd79a8-e0c3-4bf4-81e6-ddb675be88e5
+[INFO 2019-05-13 17:11:43]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:11:43]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:11:43]token: 1a0d2c08-0629-4046-b22f-53b1d806eccc
+[INFO 2019-05-13 17:12:04]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:12:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:12:05]token: 7bb67f10-123e-424c-8ccf-92611948d335
+[INFO 2019-05-13 17:13:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:13:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:13:21]token: 46853637-1b46-43ee-ad75-cd8be6dc1e62
+[INFO 2019-05-13 17:13:51]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:13:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:13:52]token: d8b5e7bf-658b-4115-aafc-fd1f09d07f90
+[INFO 2019-05-13 17:14:18]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:14:18]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:14:18]token: ed0ecf6a-9f0b-47e9-ac92-0ffb851c3401
+[INFO 2019-05-13 17:14:25]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:14:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:14:25]token: d759fb94-96b4-4f20-9645-01c860064a3e
+[DEBUG 2019-05-13 17:14:54]token: 8df7e796-20f4-4ebb-8857-89aeb555091b
+[DEBUG 2019-05-13 17:15:22]token: ec419e85-96ae-43b6-bd25-a876e6412f15
+[DEBUG 2019-05-13 17:15:39]token: 503b205a-e4fa-4d91-8a1d-a0ca4657c729
+[DEBUG 2019-05-13 17:15:59]token: e1ae2167-7314-4d09-950f-152c8ee3b5be
+[INFO 2019-05-13 17:16:47]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:16:47]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:16:47]token: c709cb18-bf11-437e-8e10-14cbbcfd91ec
+[DEBUG 2019-05-13 17:17:50]token: 66af1840-1509-4363-bab2-7ec9502fdfda
+[INFO 2019-05-13 17:18:02]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-13 17:18:02]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-13 17:18:03]token: 41534e78-f367-4ef4-b98f-0ce36e8fa4fd
+[INFO 2019-05-14 08:40:22]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 08:40:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 08:40:23]token: 72971475-d4b3-4f5b-9e07-aebdde977ab5
+[DEBUG 2019-05-14 11:11:04]token: 147d5f2e-ff67-4d85-a4a5-1dcc29f383b7
+[DEBUG 2019-05-14 11:11:49]token: bcb61b45-ef42-4838-89b9-8414a69a4d8d
+[INFO 2019-05-14 12:24:23]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 12:24:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 12:24:23]token: dd342602-311f-4a11-82c7-a22a3bea549f
+[DEBUG 2019-05-14 12:25:36]token: cfefac53-f6bc-4c7e-8c8f-f4054c4f3bee
+[DEBUG 2019-05-14 13:43:23]token: 22ab4bd5-3736-4654-9408-a917760a1d05
+[INFO 2019-05-14 13:44:22]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 13:44:22]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 13:44:23]token: ecde655f-7753-40e7-b992-23271fd018d6
+[INFO 2019-05-14 14:03:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:03:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:03:25]token: 22a9179b-dac2-41a1-b56e-790cfb1cc18e
+[INFO 2019-05-14 14:04:01]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:04:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:04:02]token: f94bd8a8-8084-4a33-a362-59e47a3e4645
+[INFO 2019-05-14 14:04:35]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:04:35]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:04:36]token: 110e0879-b26e-4a07-b03d-20bacce4e6b2
+[INFO 2019-05-14 14:04:43]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:04:43]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:04:43]token: 649d1de9-684e-45a7-a2fa-fc8f5ca1bd83
+[INFO 2019-05-14 14:04:59]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:04:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:04:59]token: b72a2c52-5047-48a7-829c-6a429f9dcf57
+[INFO 2019-05-14 14:05:11]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:05:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:05:11]token: 4f699235-027b-4a90-81c7-4827a334cdd3
+[INFO 2019-05-14 14:05:23]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:05:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:05:23]token: c4b28582-8847-4fb6-8dc5-720dad301384
+[INFO 2019-05-14 14:06:00]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:06:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:06:01]token: e447053d-651a-442d-ab4f-60c777b7b44b
+[INFO 2019-05-14 14:06:14]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:06:14]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:06:15]token: 2cb1d370-520a-473f-92de-60b288264785
+[INFO 2019-05-14 14:07:03]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:07:03]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:07:03]token: 1e0b0d3f-103c-4c8a-9e97-2e3a412b9c32
+[INFO 2019-05-14 14:09:26]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:09:26]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:09:27]token: 27433ce6-4417-45b6-839b-df969d48533e
+[INFO 2019-05-14 14:10:41]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:10:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:10:42]token: 634dae7d-c380-4e84-a975-969e0f44daf9
+[INFO 2019-05-14 14:12:35]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:12:35]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:12:36]token: a9c1a262-f494-423b-8d96-1d9656c75578
+[INFO 2019-05-14 14:13:09]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:13:09]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:13:09]token: 41cfb399-2dc6-4417-97c2-483daaf576b8
+[INFO 2019-05-14 14:14:54]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:14:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:14:54]token: cd100dff-2037-4191-a53f-a91a1ec3d4cd
+[INFO 2019-05-14 14:15:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:15:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:15:25]token: 6604270e-4893-4282-bffe-4ce41563d131
+[INFO 2019-05-14 14:16:17]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:16:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:16:18]token: 4cfe59ad-cf76-4d53-b05f-cbc54ae116fc
+[INFO 2019-05-14 14:17:11]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:17:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:17:12]token: fdc99cf8-1eb6-4373-9d03-1206f27cd6bc
+[INFO 2019-05-14 14:17:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:17:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:17:45]token: 52398f9d-b6eb-4570-840b-5d54435b87aa
+[INFO 2019-05-14 14:18:14]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:18:15]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:18:15]token: 20c9e602-e257-4c84-acae-6d7cb9d30c6e
+[DEBUG 2019-05-14 14:20:35]token: 0670deb1-f178-4e79-8a8f-d746ec7b905e
+[DEBUG 2019-05-14 14:23:13]token: bbc498ef-08a7-4428-a915-95883f6c0c43
+[INFO 2019-05-14 14:23:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:23:32]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:23:32]token: c499abfd-3516-4029-909c-22c5dbed16a6
+[DEBUG 2019-05-14 14:24:30]token: a997d31b-d29e-4506-994d-23877514c7db
+[INFO 2019-05-14 14:25:01]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:25:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:25:01]token: 0b0589a0-286d-4f48-bf73-2bddec472526
+[INFO 2019-05-14 14:25:41]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:25:41]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:25:42]token: e8dda4c0-5bce-4b28-a945-d76f2874c816
+[INFO 2019-05-14 14:26:57]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:26:58]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:26:58]token: 63702665-ed51-4b15-b95a-1e4cebc01e82
+[DEBUG 2019-05-14 14:27:45]token: 4981ca31-8e0b-46ed-a08d-73a9d36e0356
+[INFO 2019-05-14 14:28:28]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:28:28]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:28:28]token: 39b2866f-78c6-42de-af08-fb39b53d3c11
+[DEBUG 2019-05-14 14:29:08]token: 7bbf4277-6eb9-4771-b905-b1d61de9ebb0
+[DEBUG 2019-05-14 14:30:16]token: 42cd548c-43df-4a35-a9fb-c6c172853110
+[INFO 2019-05-14 14:30:19]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:30:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:30:20]token: 2c5681b2-df4f-46e1-813e-3528960979bc
+[INFO 2019-05-14 14:31:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:31:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:31:11]token: 7b8b880b-5224-4587-9d16-773e008b7b67
+[INFO 2019-05-14 14:31:40]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:31:40]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:31:41]token: 8158df11-c1c7-4e0c-a8b6-e45a055cc42c
+[INFO 2019-05-14 14:32:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:32:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:32:33]token: 56b45cba-7c89-4cd3-863c-a5de21ef78e6
+[INFO 2019-05-14 14:34:04]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:34:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:34:05]token: de116992-973a-49aa-9b06-991e58129130
+[INFO 2019-05-14 14:37:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:37:25]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:37:25]token: 96ae9bc8-97fc-4a42-a0b7-8cac6a07190b
+[INFO 2019-05-14 14:37:45]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:37:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:37:45]token: 7511a0ef-7867-4a21-9827-4a5e89d3a428
+[INFO 2019-05-14 14:39:59]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:39:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:40:00]token: dd07df24-dc22-4672-af7d-cf1831cce30b
+[INFO 2019-05-14 14:40:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:40:44]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:40:44]token: 759efe2d-4d6c-49d9-8761-da04bcd9c185
+[INFO 2019-05-14 14:41:04]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:41:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:41:05]token: cbeadf42-3fb2-43b5-b44d-4a45b4431255
+[INFO 2019-05-14 14:41:13]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:41:13]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:41:14]token: ad60c552-ddeb-474a-8735-2aa94a43b855
+[DEBUG 2019-05-14 14:42:03]token: 967d238c-d550-47d5-bd25-70c70ab01bcc
+[INFO 2019-05-14 14:42:19]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:42:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:42:20]token: 05394029-c182-4526-8ea2-42126fd6c1d1
+[DEBUG 2019-05-14 14:45:05]token: 5d858938-77b1-4a33-81a0-912f507546e7
+[DEBUG 2019-05-14 14:45:14]token: 4aa5697d-fae1-40b4-b47f-afd93129228b
+[INFO 2019-05-14 14:46:26]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:46:26]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:46:26]token: a6e19ce3-7a53-4ba7-8457-da97215ac913
+[ERROR 2019-05-14 14:46:26]status code error,expected_code is 9999,status code is 0000
+[INFO 2019-05-14 14:47:00]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:47:01]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:47:01]token: 9dad8bca-9d07-4c1b-b6fa-a74d19b2b4b0
+[INFO 2019-05-14 14:47:23]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:47:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:47:24]token: 8e88def1-d34b-41fc-8d0e-a7701bdae468
+[ERROR 2019-05-14 14:47:24]status code error,expected_code is 0000,status code is 9999
+[INFO 2019-05-14 14:47:40]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:47:40]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:47:40]token: 3cbc1295-a869-49fa-8614-54d53bfb3b88
+[INFO 2019-05-14 14:48:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:48:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:48:11]token: 4891a643-f09f-4bbe-9ec8-aa8095ee86e7
+[INFO 2019-05-14 14:49:03]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:49:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:49:04]token: 3d11faaa-ee07-40e3-88ec-26c8651b96af
+[ERROR 2019-05-14 14:49:04]status code error,expected_code is 1005,status code is 0000
+[INFO 2019-05-14 14:49:27]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:49:27]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:49:28]token: 1d434150-0432-406a-9874-acc19cd5c02f
+[INFO 2019-05-14 14:49:53]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:49:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:49:54]token: a44c4347-fb98-4041-bfd5-27989daaf1f6
+[INFO 2019-05-14 14:50:14]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:50:15]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:50:15]token: 39a5fa16-5217-4fa1-a62d-cfc752bd9165
+[INFO 2019-05-14 14:50:21]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:50:21]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:50:21]token: bcf34797-7d33-4d78-a0f4-fba0493822ad
+[ERROR 2019-05-14 14:50:21]Response time > expected_time, expected_time is 10, time is 20.189
+[INFO 2019-05-14 14:57:14]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:57:14]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:57:14]token: e0de1775-0216-45dc-b824-78e33efff368
+[ERROR 2019-05-14 14:57:14]status code error,expected_code is 1005,status code is 9999
+[INFO 2019-05-14 14:58:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:58:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:58:08]token: 1a88b61e-e009-46c9-9d76-083848efaf87
+[INFO 2019-05-14 14:59:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 14:59:21]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 14:59:21]token: 49bc40f6-fda7-490e-8503-3479b13135fc
+[INFO 2019-05-14 15:01:09]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:01:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:01:10]token: 04510871-7f38-4764-8aa0-05fe656870d6
+[INFO 2019-05-14 15:01:34]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:01:34]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:01:34]token: a6713ed4-f22a-49e7-a2ea-7a98dd9ab981
+[INFO 2019-05-14 15:08:29]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:08:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:08:30]token: f8571cbe-1649-4b39-8984-826b0df18490
+[INFO 2019-05-14 15:09:52]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:09:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:09:53]token: 861d2fcc-6ac4-4dd3-b139-d2fa0acea082
+[DEBUG 2019-05-14 15:09:53]token: 9bc734ef-f454-406d-9b4e-ad8d8179d588
+[INFO 2019-05-14 15:10:14]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:10:14]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:10:15]token: 56fc6bbd-023e-40f3-89ee-02da92aa3755
+[DEBUG 2019-05-14 15:10:15]token: 45a38975-a23e-45d3-b9c5-b1263ba3cfed
+[INFO 2019-05-14 15:34:09]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:34:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:34:11]token: 5ed341f5-126b-433c-9f7a-1c5c71da1f54
+[DEBUG 2019-05-14 15:34:11]token: 4057771d-55e8-40c2-8950-0f2fc37381be
+[INFO 2019-05-14 15:34:17]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:34:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:34:17]token: c3cc4cb0-01be-4851-8270-c6eb34d6b13a
+[ERROR 2019-05-14 15:34:17]Response time > expected_time, expected_time is 100, time is 154.795
+[DEBUG 2019-05-14 15:34:17]token: 7b93321a-4b86-4a22-a4df-1c0a1994d212
+[INFO 2019-05-14 15:34:39]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-14 15:34:39]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-14 15:34:39]token: 77fef75e-2d78-414b-ba6c-2d91792fd228
+[DEBUG 2019-05-14 15:34:40]token: 3088f0b9-2b0c-49ee-a3ce-6cef201ddba8
+[INFO 2019-05-15 16:29:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-15 16:29:32]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-15 16:29:32]token: 97f195eb-7e89-4c88-a266-503f99362e9e
+[DEBUG 2019-05-15 16:29:33]token: ab55ac40-27e9-4b33-81f0-2ea157af1532
+[INFO 2019-05-15 16:43:52]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-15 16:43:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-15 16:43:52]token: 90edf7db-862f-4fe8-a8d2-72ca9c89c898
+[DEBUG 2019-05-15 16:43:52]token: 887a4a25-276f-43a3-a42c-e1661cb1a214
+[INFO 2019-05-16 15:07:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-16 15:07:40]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+[INFO 2019-05-16 15:07:40]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 15:07:41]token: a1fd1d55-c123-47ed-907a-c91186f33818
+[DEBUG 2019-05-16 15:07:41]token: 4c77e16b-6732-4c9e-8a1b-2c8467a9c4c3
+[INFO 2019-05-16 17:42:03]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:42:03]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:42:04]token: 2e7cbc96-a929-42b1-803a-6b36f2854647
+[DEBUG 2019-05-16 17:42:04]token: d4cb5ee7-a1c9-4de1-b314-02fed06dda11
+[INFO 2019-05-16 17:45:00]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:45:00]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:45:00]token: 9a1533f5-6805-4fc6-a2b1-dcf03aa9fc6a
+[DEBUG 2019-05-16 17:45:00]token: 6b3feeeb-044f-4b94-8acb-34eeef018640
+[INFO 2019-05-16 17:47:18]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:47:18]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:47:19]token: 8081fd14-ce37-4825-bc6d-47506ac90fcf
+[DEBUG 2019-05-16 17:47:19]token: bca4331e-9e25-4522-83cc-22309420dc0e
+[INFO 2019-05-16 17:47:35]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:47:35]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:47:35]token: 786414e3-9a7a-4949-b621-833ea3712b99
+[INFO 2019-05-16 17:48:53]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:48:53]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:48:53]token: d2bb1b8c-5c4a-49ed-b632-04aa2a986bf4
+[INFO 2019-05-16 17:50:05]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:50:06]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:50:06]token: 5c2fc047-ddf2-4255-a4b9-79b535f18e03
+[INFO 2019-05-16 17:51:52]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:52:00]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:52:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:52:47]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:52:57]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:52:57]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:52:57]token: af9daa71-32e5-49d4-b36f-f2289e8d463d
+[INFO 2019-05-16 17:53:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:53:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:53:33]token: f612a2d2-b25a-4af8-9c8a-fcf0fcc6b8d6
+[INFO 2019-05-16 17:54:19]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:54:19]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:54:19]token: 72585970-945b-4c0f-a053-370d88093175
+[INFO 2019-05-16 17:55:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:55:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:55:07]token: 555e7f57-3afd-4c34-98bf-ba8bc7d4edb3
+[INFO 2019-05-16 17:55:53]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:55:53]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:55:54]token: 693f82eb-e14a-479b-bcbf-769b852f4de7
+[DEBUG 2019-05-16 17:55:54]token: 11fd1432-e791-4687-938b-2807dc281a11
+[INFO 2019-05-16 17:56:29]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:56:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:56:30]token: 99870532-f11f-4780-9844-5d9369403fa4
+[DEBUG 2019-05-16 17:56:30]token: e36603f7-fdcb-4307-8e5c-1cc379b897f2
+[INFO 2019-05-16 17:57:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:57:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:57:07]token: 59b37890-e0f6-4945-bd3f-352088c2d775
+[INFO 2019-05-16 17:57:46]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-16 17:57:46]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-16 17:57:47]token: 5c5c3870-842e-4e55-ae6b-517af9291a67
+[DEBUG 2019-05-16 17:57:47]token: aadd3489-0e0f-4431-a6a7-291a476ed57b
+[INFO 2019-05-17 09:22:32]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 09:22:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-17 09:22:33]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-05-17 09:27:54]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 09:27:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[INFO 2019-05-17 09:29:05]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 09:29:05]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-17 09:29:38]token: d4a29fbd-62d9-42be-97af-6e089c9ee13b
+[INFO 2019-05-17 09:40:02]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 09:40:02]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/Login.yaml
+[DEBUG 2019-05-17 09:40:02]token: 8bd69692-6277-4da4-9f86-f3a70c5e39ef
+[DEBUG 2019-05-17 09:40:02]token: 277a141c-2002-4f61-ba1c-c3ca96344c15
+[INFO 2019-05-17 10:34:29]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 10:34:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 10:34:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 10:34:30]token: 2ce508d0-bd1d-4c5a-b7b8-527abb6ee377
+[DEBUG 2019-05-17 10:34:30]token: 35e0dab8-4ace-4be2-b494-c53caff9d047
+[DEBUG 2019-05-17 10:34:30]token: 1a5e6d90-47e2-4544-bbaa-192a0e8a8998
+[INFO 2019-05-17 10:39:05]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 10:39:06]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 10:39:06]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 10:39:06]token: 81595574-5ab5-4d33-a6da-12eb366172ee
+[ERROR 2019-05-17 10:39:06]status code error,expected_code is 9999,status code is 1003
+[DEBUG 2019-05-17 10:39:06]token: b56e0fb2-6344-4a77-a899-edccb1870821
+[DEBUG 2019-05-17 10:39:06]token: 59c8fc7a-4850-4548-aa49-1a830e5f7925
+[INFO 2019-05-17 10:46:47]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 10:46:48]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 10:46:48]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 10:46:48]token: e06d3f16-c8a3-4f92-8ad9-ace6e2486710
+[DEBUG 2019-05-17 10:46:48]token: 57a7207c-1706-42c9-92d5-186f84b4893f
+[DEBUG 2019-05-17 11:36:12]token: b7bad542-db7c-45b1-961f-3db598f17a0a
+[DEBUG 2019-05-17 11:36:30]token: e2231dff-67c4-42f8-b798-9d9c4a1656ab
+[DEBUG 2019-05-17 11:37:18]token: 546c884c-09dd-40e5-be54-dd2e127b3dcb
+[DEBUG 2019-05-17 11:37:26]token: 8f9891bb-f917-4db7-8cd7-4f0275b99c74
+[DEBUG 2019-05-17 11:37:26]token: ecb2c7d7-7146-4c3d-8bba-d33ce7bcfad3
+[DEBUG 2019-05-17 11:37:55]token: fc8c067f-3b04-4e39-bc76-f165d9b70fa1
+[INFO 2019-05-17 11:40:07]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 11:40:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 11:40:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 11:40:07]token: 5989f69c-a935-489c-8f03-7ac6599f22b9
+[DEBUG 2019-05-17 11:40:07]token: 5d323fe5-ca1d-4ce3-b1ca-828064257afe
+[DEBUG 2019-05-17 11:40:08]token: 4a238a21-5848-4b2d-9502-d0c28447ee1e
+[INFO 2019-05-17 11:41:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 11:41:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 11:41:11]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 11:41:12]token: 4a93ac04-0ad8-4c97-a8a8-7a9a309c495d
+[DEBUG 2019-05-17 11:41:12]token: ac95b0da-f492-4b53-a01d-42ce3c9825d7
+[DEBUG 2019-05-17 11:41:12]token: 1f4d9029-2bbb-41de-a488-9605d76a269c
+[INFO 2019-05-17 11:41:28]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 11:41:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 11:41:29]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 11:41:29]token: c4192b2c-09e1-4e69-a02d-40224abf5711
+[DEBUG 2019-05-17 11:41:29]token: 1981f9b2-7fb8-4250-bd03-179ea0bb1045
+[DEBUG 2019-05-17 11:41:29]token: 943fc9fe-b70a-450c-8d6e-abb390442f7d
+[INFO 2019-05-17 11:41:51]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 11:41:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 11:41:52]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 11:41:52]token: b71e5b74-77b6-483d-b3ca-2689a7f039e4
+[DEBUG 2019-05-17 11:41:52]token: 6623f36c-5461-4ce0-bb15-d2d26d970d97
+[DEBUG 2019-05-17 11:41:52]token: 63506a86-8f43-4e88-8603-108a7b722646
+[INFO 2019-05-17 13:40:44]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:40:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:40:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:40:45]token: 277d2806-8aa1-45b3-91b0-aca634cfe91c
+[DEBUG 2019-05-17 13:40:45]token: 84fd3e8c-02db-4e0b-8026-2105e2a61466
+[DEBUG 2019-05-17 13:40:45]token: 83241d9d-099c-4554-b3dd-a4609dba9099
+[INFO 2019-05-17 13:43:10]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:43:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:43:10]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:43:10]token: 77a8f351-e47b-4e87-8c20-f9e4b2235908
+[DEBUG 2019-05-17 13:43:10]token: 1898efa2-b425-4656-bfbd-67a1076f299d
+[DEBUG 2019-05-17 13:43:10]token: 3c978135-8d9c-424d-a8d9-a052e272a574
+[INFO 2019-05-17 13:43:24]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:43:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:43:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:43:24]token: bd27c3f1-41ec-4f61-8877-c70bd9c8ced1
+[DEBUG 2019-05-17 13:43:24]token: 3931afd1-de02-4e0b-a9d4-313e8d5ae9eb
+[DEBUG 2019-05-17 13:43:24]token: 8086f659-3595-4a66-bc43-caae927f1062
+[INFO 2019-05-17 13:43:37]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:43:37]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:43:37]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:43:38]token: abc82973-165c-4f2d-af64-030942ac2034
+[DEBUG 2019-05-17 13:43:39]token: e6b4856f-da86-4f4b-a3cb-854aa62c68f2
+[DEBUG 2019-05-17 13:43:39]token: 02b0bec7-135f-4528-8401-0d1c39abf3c3
+[INFO 2019-05-17 13:44:18]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:44:18]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:44:18]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:44:19]token: 6fc8bac1-b898-4bd4-b328-8c9282f89575
+[DEBUG 2019-05-17 13:44:19]token: 92a10342-8c61-46a8-b7ca-ba7b645948c0
+[DEBUG 2019-05-17 13:44:19]token: 6dbad4d9-cd8f-4c11-86a4-b42867844b8b
+[INFO 2019-05-17 13:45:03]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:45:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:45:04]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:45:04]token: 3ac01b77-d986-4289-800f-ed1c7ee1f97a
+[DEBUG 2019-05-17 13:45:04]token: fd3416f1-3063-4535-9319-91d63da4a638
+[DEBUG 2019-05-17 13:45:04]token: 13ece470-577a-4b58-95b7-5e80c8abc7c1
+[INFO 2019-05-17 13:45:13]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:45:13]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:45:13]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:45:13]token: 0685d69e-f6aa-435e-a910-9f9a3764abb3
+[DEBUG 2019-05-17 13:45:13]token: 986ec550-3848-4a96-9608-27f678c62117
+[DEBUG 2019-05-17 13:45:13]token: 4640a815-7ddd-42d7-8c68-44fd412b20b6
+[INFO 2019-05-17 13:45:42]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-05-17 13:45:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 13:45:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 13:45:42]token: ccc36aef-5cca-4500-8819-51106eedc1c1
+[DEBUG 2019-05-17 13:45:42]token: 214db411-ca49-4871-a9a6-e74e22becf11
+[DEBUG 2019-05-17 13:45:42]token: 344776f0-0126-46d8-bd9d-1804c919d3c6
+[INFO 2019-05-17 14:08:43]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:08:43]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-05-17 14:11:31]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:11:31]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-05-17 14:11:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:11:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-05-17 14:12:31]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:12:31]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-05-17 14:12:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:12:45]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:12:46]token: 2fd795b6-1a41-4d28-a224-1ca613089623
+[INFO 2019-05-17 14:16:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:16:07]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:16:07]token: bd03099d-bcbb-4bfb-9f2c-4644c6d569d9
+[INFO 2019-05-17 14:16:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:16:17]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:16:18]token: 96f01d82-2a5c-42fb-be30-5eda93404a43
+[INFO 2019-05-17 14:16:27]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:16:27]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:16:27]token: fa9a61d4-fea2-4e0c-877e-d77aca948d92
+[INFO 2019-05-17 14:20:55]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:21:14]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:21:14]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:21:14]token: 5b3b56d3-a627-4f53-a843-344a69a25224
+[INFO 2019-05-17 14:21:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:21:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:21:23]token: a3dc2441-14b7-4a86-acbc-2fb2049f6e77
+[INFO 2019-05-17 14:22:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-05-17 14:22:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-05-17 14:22:21]token: 9f668ea7-f86b-4aa1-9a6e-edec11d79607
+[DEBUG 2019-06-13 17:47:42]token: 7356b691-90d1-43d2-b98b-06690f570280
+[DEBUG 2019-06-13 17:48:21]token: 3de1333f-24cb-489d-b706-f54a54b14030
+[INFO 2019-06-18 15:58:56]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-06-18 15:58:56]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-18 15:58:56]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-18 15:58:57]token: 4fca2865-ed9e-4d6b-bc00-6aaa84e45d6d
+[DEBUG 2019-06-18 15:58:57]token: b8056bae-3486-4120-8318-fab8e49a9b08
+[DEBUG 2019-06-18 15:58:57]token: f902d520-f6d7-42ff-8bc8-1a37b75976bc
+[ERROR 2019-06-18 15:58:58]Response time > expected_time, expected_time is 200, time is 743.805
+[DEBUG 2019-06-18 15:58:58]token: a7657f0c-f80f-4f35-b7a7-047231ef5eb4
+[ERROR 2019-06-18 15:58:59]Response time > expected_time, expected_time is 200, time is 409.206
+[INFO 2019-06-25 16:27:20]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-06-25 16:27:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-25 16:27:20]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-25 16:27:21]token: 6f917085-90e2-46cb-9554-5e021b7bddd9
+[DEBUG 2019-06-25 16:27:21]token: 4a63edca-a2c8-4cde-9fec-1f8bf0c9a319
+[DEBUG 2019-06-25 16:27:21]token: 3726bc95-44af-481d-9456-b78deb4f5092
+[DEBUG 2019-06-25 16:27:22]token: 4ca38025-d542-49d0-a629-6c07dc363f79
+[INFO 2019-06-26 11:06:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 11:06:54]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-26 11:06:55]token: ca85ea90-6811-4722-a364-c2a6549c808c
+[INFO 2019-06-26 11:48:22]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 11:48:22]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-26 11:48:22]token: 55caf5d2-88d6-4319-8f44-4492cd71f911
+[INFO 2019-06-26 11:48:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 11:48:49]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-26 11:48:49]token: d72d0793-e39f-4938-b469-dd8781011a32
+[INFO 2019-06-26 11:49:23]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 11:49:24]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-26 11:49:24]token: 443985e0-25ea-4f44-8b6f-8d71b3256d51
+[INFO 2019-06-26 11:49:39]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 11:49:39]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[DEBUG 2019-06-26 11:49:39]token: e3fe5bbb-dc64-40bd-8777-f92e948c7cfe
+[INFO 2019-06-26 14:05:59]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 14:06:51]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-06-26 14:06:51]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml
+[INFO 2019-10-23 16:00:41]初始化配置文件, path=/Users/Tony/PycharmProjects/EEOP_API/Config/config.ini
+
+[INFO 2019-10-23 16:00:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/login.yaml
+[INFO 2019-10-23 16:00:42]解析yaml，Path:/Users/Tony/PycharmProjects/EEOP_API/Params/Yaml/getUserMenu.yaml

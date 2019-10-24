@@ -1,0 +1,62 @@
+{
+  "ba539c58d01b539fdad1ce839f8bf0d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac622b44968bc1fa",
+      "status" : "broken",
+      "statusDetails" : "TypeError: string indices must be integers",
+      "time" : {
+        "start" : 1571817643280,
+        "stop" : 1571817643297,
+        "duration" : 17
+      }
+    } ]
+  },
+  "333ee5e98c97e14067fde68f99aeb04e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33d94a010fa8829b",
+      "status" : "broken",
+      "statusDetails" : "TypeError: string indices must be integers",
+      "time" : {
+        "start" : 1571817642763,
+        "stop" : 1571817643167,
+        "duration" : 404
+      }
+    } ]
+  },
+  "86a2b4881c1efd6716d459ca8a2fc88f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0862f7e61617286",
+      "status" : "broken",
+      "statusDetails" : "TypeError: string indices must be integers",
+      "time" : {
+        "start" : 1571817643245,
+        "stop" : 1571817643264,
+        "duration" : 19
+      }
+    } ]
+  }
+}
