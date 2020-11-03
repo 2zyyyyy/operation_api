@@ -33,7 +33,7 @@ class GetPages:
             for parameter in parameters:
                 data_list.append(parameter)
             _page_list[page] = data_list
-            # pprint.pprint(_page_list)
+            pprint.pprint(_page_list)
 
         return _page_list
 

@@ -10,7 +10,7 @@ from Common import Token
 
 log = Log.MyLog()
 path_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
-print(path_dir)
+# print(path_dir)
 
 
 def get_parameter(name):
