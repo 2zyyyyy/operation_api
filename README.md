@@ -1,4 +1,4 @@
-# EEOP_API
+# operation platform api
 pytest + allure 的接口自动化测试项目
 测试数据是读取yaml文件
 结合Jenkins查看测试报告
